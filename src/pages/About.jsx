@@ -9,7 +9,7 @@ const team = [
       "Designed and built the React user interface, forms, tables and overall user experience.",
   },
   {
-    name: "Team Member 2",
+    name: "Joel Emmanuel",
     role: "Backend / Database",
     description:
       "Responsible for database design, schema, ER diagram and data operations.",
